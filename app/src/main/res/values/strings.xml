@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SearchMoive</string>
+    <string name="search_tab_title">Search</string>
+    <string name="favorite_tab_title">Your Favorite</string>
+    <string name="search_edit_text_hint">Search Your Movie</string>
+    <string name="director_label"> Director: %1$s</string>>
+    <string name="year_label"> Year: %1$d</string>>
+    <string name="description_label"> Description: %1$s</string>>
+    <string name="network_loading"> Loading... </string>
+    <string name="network_failure"> Something went wrong, we have problem getting your result. </string>
+    <string name="liked_label"> Liked </string>
+    <string name="like_it_label"> Like it </string>
+
+</resources>
